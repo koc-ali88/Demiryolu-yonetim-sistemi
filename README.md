@@ -1,2 +1,2 @@
-# Demiryolu-yonetim-sistemi
+# Demiryolu Yönetim Sistemi
 Veritabanı Yönetim Sistemleri proje ödevi
