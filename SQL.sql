@@ -14,7 +14,7 @@ CREATE TABLE istasyonlar (
 CREATE TABLE rotalar (
     rotaNo SERIAL PRIMARY KEY,
     baslangicIstasyonNo INTEGER NOT NULL REFERENCES istasyonlar(istasyonNo) ON DELETE CASCADE,
-    hedefIstasyonNo INTEGER NOT NULL REFERENCES istasyonlar(istasyonNo) ON DELETE CASCADE
+    hedefIstasyonNo INTEGER NOT NULL REFERENCES istasyonlar(istasyonNo) ON DELETE CASCADE,
     CONSTRAINT baslangicVeHedefAyniOlamaz UNIQUE (baslangicIstasyonNo, hedefIstasyonNo)
 );
 
