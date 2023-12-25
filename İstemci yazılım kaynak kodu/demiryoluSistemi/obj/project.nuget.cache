@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FG1TNcaNt5N7GAdFLby3yMoEvx/5nVg2yWw1zlWL8Hjji3Hvbnimnjh0VoKFQyQ9PkYNXCQygxeM9WJ6H7K7dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali\\source\\repos\\demiryoluSistemi\\demiryoluSistemi\\demiryoluSistemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

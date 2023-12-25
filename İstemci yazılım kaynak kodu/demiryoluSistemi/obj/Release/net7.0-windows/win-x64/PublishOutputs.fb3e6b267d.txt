@@ -1,0 +1,7 @@
+C:\Users\Ali\Desktop\VERITABANI_UYGULAMA\demiryoluSistemi.pdb
+C:\Users\Ali\Desktop\VERITABANI_UYGULAMA\D3DCompiler_47_cor3.dll
+C:\Users\Ali\Desktop\VERITABANI_UYGULAMA\PenImc_cor3.dll
+C:\Users\Ali\Desktop\VERITABANI_UYGULAMA\PresentationNative_cor3.dll
+C:\Users\Ali\Desktop\VERITABANI_UYGULAMA\vcruntime140_cor3.dll
+C:\Users\Ali\Desktop\VERITABANI_UYGULAMA\wpfgfx_cor3.dll
+C:\Users\Ali\Desktop\VERITABANI_UYGULAMA\demiryoluSistemi.exe

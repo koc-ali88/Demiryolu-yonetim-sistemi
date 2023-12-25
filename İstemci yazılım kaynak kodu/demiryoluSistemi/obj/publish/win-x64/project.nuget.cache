@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M8h9r8wJwI5PoFQR71DrLHqRyngRrfQ7dDaPA0DMm3LAYgUAP5bbeU5MipgN3FfdhmHS/J5mWFG2voV/yQj/Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali\\source\\repos\\demiryoluSistemi\\demiryoluSistemi\\demiryoluSistemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.7\\microsoft.netcore.app.runtime.win-x64.7.0.7.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.7.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.7\\microsoft.aspnetcore.app.runtime.win-x64.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
