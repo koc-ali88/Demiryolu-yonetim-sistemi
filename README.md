@@ -53,6 +53,7 @@ biletler(biletNo: serial, yolcuNo: integer, yolculukNo: integer, koltukNo: integ
 geribildirimler(geribildirimNo: serial, biletNo: integer, verilenPuan: integer, yorum: text)
 
 ## Varlık Bağıntı Modeli:
+
 ![Demiryolu Yönetim Sistemi Varlık Bağıntı Modeli](https://github.com/koc-ali88/Demiryolu-yonetim-sistemi/tree/main/Resimler/VarlikBaginti.png)
 
 > [!NOTE]
@@ -76,15 +77,15 @@ geribildirimler(geribildirimNo: serial, biletNo: integer, verilenPuan: integer, 
 
 ## Ekran Görüntüleri:
 
-(https://github.com/koc-ali88/Demiryolu-yonetim-sistemi/tree/main/Resimler/arama.png)
+![Arama işlemi](https://github.com/koc-ali88/Demiryolu-yonetim-sistemi/tree/main/Resimler/arama.png)
 Arama işlemi
 
-(https://github.com/koc-ali88/Demiryolu-yonetim-sistemi/tree/main/Resimler/ekleme.png)
+![Ekleme işlemi](https://github.com/koc-ali88/Demiryolu-yonetim-sistemi/tree/main/Resimler/ekleme.png)
 Ekleme işlemi
 
-(https://github.com/koc-ali88/Demiryolu-yonetim-sistemi/tree/main/Resimler/silme.png)
+![Silme işlemi](https://github.com/koc-ali88/Demiryolu-yonetim-sistemi/tree/main/Resimler/silme.png)
 Silme işlemi
 
-(https://github.com/koc-ali88/Demiryolu-yonetim-sistemi/tree/main/Resimler/guncelleme.png)
+![Güncelleme işlemi](https://github.com/koc-ali88/Demiryolu-yonetim-sistemi/tree/main/Resimler/guncelleme.png)
 Güncelleme işlemi
 
